@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋, I'm Pritiparna Behera
 
-<!--
-**Priti-1001/Priti-1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Cybersecurity Student at **IIT Patna**
+📍 Bhubaneswar, Odisha, India
+🚀 Passionate about building impactful tech solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm a Computer Science student specializing in AI & Cybersecurity at IIT Patna. I enjoy solving real-world problems through technology, working on team projects, and continuously improving my skills through hands-on development.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, SQL, HTML, CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Supabase
+- **Interests:** AI, Cybersecurity, Web Development, Database Management
+
+---
+
+## 🚀 Projects
+
+- 🛡️ **SafeRoute** — A women's safety web application that suggests safe routes based on real-time crime data. Built using React, Python, PostgreSQL with PostGIS. *(Capstone Project - IIT Patna)*
+
+---
+
+## 📊 GitHub Stats
+
+![Pritiparna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priti-1001&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priti-1001&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Pritiparna Behera](https://www.linkedin.com/in/pritiparna-behera-b962433a2)
+
+---
+
+⭐ *Code. Learn. Repeat.*
